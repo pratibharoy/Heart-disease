@@ -45,6 +45,7 @@ The slope of the ST segment on an ECG during exercise can provide additional inf
 These indicators can provide further insights into the extent and severity of coronary artery disease and the risk of heart attacks.
 
 In conclusion, heart attacks are complex events influenced by a variety of factors, including age, sex, and various medical indicators. Understanding these factors and their relationships can help healthcare professionals identify individuals at higher risk and implement strategies for prevention and treatment. Regular monitoring of key indicators, lifestyle modifications, and appropriate medical interventions are essential for reducing the risk of heart attacks and promoting heart health.
+
 ---
 
 [EDA](https://github.com/pratibharoy/Pratibha-Dipika/blob/main/EDA.md)
