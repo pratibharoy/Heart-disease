@@ -3,6 +3,7 @@
 Heart attacks, also known as myocardial infarctions, are serious medical emergencies that occur when blood flow to the heart is blocked, leading to damage or death of heart muscle tissue. Understanding the factors that contribute to heart attacks, including age, sex, and various medical indicators, is crucial for prevention, diagnosis, and treatment.
 
 ![alt text](https://tse2.mm.bing.net/th?id=OIP.x81znUyZoC1R7z8t0MjjcgHaFj&pid=Api&P=0&h=220&fbclid=IwAR3VkypKRjr8nFmai_ppaM2m5xDMFvv_e8_zwUa3iS4i3TwX5KPVQMMSdrA)
+
 ---
 
 ### Age and Sex: Key Influencers
