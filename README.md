@@ -26,5 +26,5 @@ We encourage you to explore the website and dive into the data analysis. Your in
 
 Stay tuned for updates as we add more findings and insights to our analysis. Thank you for visiting!
 
-[More](https://pratibharoy.github.io/Pratibha-Dipika/Explanation)
+[More](https://pratibharoy.github.io/Heart-disease/Explanation)
 
