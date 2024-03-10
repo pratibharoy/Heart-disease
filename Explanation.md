@@ -49,4 +49,4 @@ In conclusion, heart attacks are complex events influenced by a variety of facto
 
 ---
 
-[EDA](https://pratibharoy.github.io/Pratibha-Dipika/Heart-disease/EDA.md)
+[EDA](https://pratibharoy.github.io/Heart-disease/EDA)
