@@ -41,6 +41,10 @@ We trained a machine learning model to predict the presence of a heart attack ba
 
 Confusion Matrix:
 
+![alt text](https://github.com/pratibharoy/Pratibha-Dipika/blob/main/Screenshot%202024-03-10%20141841.png?raw=true)
+![alt text](https://github.com/pratibharoy/Pratibha-Dipika/blob/main/Screenshot%202024-03-10%20141934.png?raw=true)
+
+
 True Positives (TP): 103 cases correctly predicted positive outcomes.
 True Negatives (TN): 102 cases correctly predicted negative outcomes.
 False Positives (FP): 0 cases incorrectly predicted positive outcomes.
