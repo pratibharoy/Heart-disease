@@ -8,7 +8,7 @@ Each row in the dataset represents an individual with various attributes related
 ### Correlation Analysis
 We conducted a correlation analysis to understand the relationships between different features in the heart attack dataset. Here are some key observations:
 
-![alt text](blob:https://web.whatsapp.com/10319f66-60da-4638-b16e-985bd5ad707f)
+![alt text](https://github.com/pratibharoy/Pratibha-Dipika/blob/main/WhatsApp%20Image%202024-03-10%20at%2012.53.09.jpeg?raw=true)
 
 ---
 
@@ -30,7 +30,7 @@ Maximum Heart Rate Achieved (thalach) also has a moderate positive correlation (
 ### Distribution Analysis
 We also analyzed the distribution of certain features in the dataset. Here are some key findings:
 
-![alt text](blob:https://web.whatsapp.com/08f92c37-a57f-4e8b-97c7-11f5a087a4f9)
+![alt text](https://github.com/pratibharoy/Pratibha-Dipika/blob/main/Screenshot%202024-03-10%20125717.png?raw=true)
 
 
 1. The center of distribution for Serum Cholesterol Level (chol) and ST Depression Induced by Exercise Relative to Rest (oldpeak) is positively skewed.
