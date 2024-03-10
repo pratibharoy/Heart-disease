@@ -101,3 +101,5 @@ diagnosis. The use of machine learning and artificial intelligence into cardiova
 holds the possibility of more accurate and timely therapies, bringing hope for better outcomes
 and a healthier future. As research and technology develop, the continued commitment to
 understanding the complexity of cardiac disease remains critical to global well-being.
+
+[Conclusion].(https://pratibharoy.github.io/Heart-disease/Conclusion).
