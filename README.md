@@ -14,6 +14,7 @@ Welcome to the Heart Attack Factors EDA website. Here, we explore the various fa
 
 This project aims to analyze a dataset containing information about individuals' health and lifestyle factors to identify patterns and correlations related to heart attacks. By examining factors such as age, gender, blood pressure, cholesterol levels, and more, we hope to uncover important insights that can inform public health strategies and individual health decisions.
 
+![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXaStFQH-xZb0A9Y43YRlobjGJabVXjGWD4g&usqp=CAU)
 
 
 ## Explore the Data
