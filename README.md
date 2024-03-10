@@ -21,3 +21,6 @@ Our analysis includes visualizations and statistical summaries of the dataset to
 We encourage you to explore the website and dive into the data analysis. Your input is valuable to us as we continue to refine our analysis and improve our understanding of heart attack risk factors.
 
 Stay tuned for updates as we add more findings and insights to our analysis. Thank you for visiting!
+
+[More](https://pratibharoy.github.io/Pratibha-Dipika/Explanation)
+
