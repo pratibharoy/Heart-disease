@@ -1,4 +1,5 @@
 # Exploring Heart Attack Risk Factors: A Data Analysis Perspective
+
 ---
 Heart attacks, or myocardial infarctions, are a leading cause of death worldwide. Understanding the factors that contribute to heart attacks is crucial for prevention and early intervention. In this article, we will explore the relationship between various attributes related to heart attack and the presence of a heart attack using a dataset that includes information such as age, gender, chest pain type, resting blood pressure, serum cholesterol level, fasting blood sugar level, resting electrocardiographic results, maximum heart rate achieved, exercise-induced angina, ST depression induced by exercise relative to rest, slope of the peak exercise ST segment, number of major vessels colored by fluoroscopy, thalassemia, and the presence of a heart attack.
 
