@@ -102,4 +102,5 @@ holds the possibility of more accurate and timely therapies, bringing hope for b
 and a healthier future. As research and technology develop, the continued commitment to
 understanding the complexity of cardiac disease remains critical to global well-being.
 
-[Conclusion].(https://pratibharoy.github.io/Heart-disease/Conclusion).
+[Conclusion](https://pratibharoy.github.io/Heart-disease/Conclusion)
+
