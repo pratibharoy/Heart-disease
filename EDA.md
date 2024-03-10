@@ -60,7 +60,3 @@ Accuracy: Approximately 99% accuracy in predicting the presence of a heart attac
 
 Conclusion
 In conclusion, this analysis provides valuable insights into the factors that contribute to heart attacks. Features such as Chest Pain Type (cp), Maximum Heart Rate Achieved (thalach), and ST Depression Induced by Exercise Relative to Rest (oldpeak) are important predictors of heart attack risk. Understanding these factors can help healthcare professionals identify individuals at higher risk and implement preventive measures. Further research and analysis are needed to validate these findings and improve the prediction of heart attacks.
-
-[EDA](https://github.com/pratibharoy/Pratibha-Dipika/main/EDA.md)
-
-
